@@ -1,6 +1,6 @@
 <?php
 	$db=mysqli_connect("localhost","root","","ecom_store");
 	function(){
-		global $db;ssSS
+		global $db;ssSSSSS
 	}mcmcmnxnxnxnxnnxnxsksk
 ?>ssssnsnsnsnsaanznznsNnssmssjsjsjsjsjsSSjssSSxkxkSSSxksskNSNSN
