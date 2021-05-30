@@ -2,5 +2,5 @@
 	$db=mysqli_connect("localhost","root","","ecom_store");
 	function(){
 		global $db;
-	}//nnbzbzbnxnssnsnsnsnxssnxssnsnnsnsnsnsssnxnxnsnsnsnssnsnnx nsnsnsnsnzbbzbsnsnszsssnsnmsmnznznzxsnsnnsmsmxnnzzsnnznzxnxncncnxsnsnnznznnsnnsxnwwhhwsnsnsxbxbsnsns
+	}//nnbzbzbnxnssnsnsnsnxssnxssnsnnsnsnsnsssnxnxnsnsnsnnsnsnssnsnnx nsnsnsnsnzbbzbsnsnszsssnsnmsmnznznzxsnsnnsmsmxnnzzsnnznzxnxncncnxsnsnnznznnsnnsxnwwhhwsnsnsxbxbsnsns
 ?>
