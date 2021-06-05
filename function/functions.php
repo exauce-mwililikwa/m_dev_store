@@ -8,7 +8,7 @@
 		case(!empty($_SERVER['HTTP_X_FORWARDED_FOR'])):return $_SERVER['HTTP_X_FORWARDED_FOR'];
 		default:return $_SERVER['REMOTE_ADDR'];
 	}
-}//xmxmxnxnsnsnmxmxsnsnmxmmxsnsnsmsm
+}//xmxmxnxnsnsnmxmxsnsnmxmmxsnsnsmsmsmsms
 function add_cart(){
 	global $db;
 	if(isset($_GET['add_cart'])){
