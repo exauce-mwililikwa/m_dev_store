@@ -1,7 +1,8 @@
 <?php
-
+ $active='Account';
   include("includes/db.php");
   include("includes/header.php");
+ 
 ?>
 	<div id="content">
 		<div class="container">

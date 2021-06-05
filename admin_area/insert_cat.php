@@ -44,7 +44,7 @@
 						<div class="col-md-6">
 							<input type="radio" value="yes" name="cat_top">
 							<label for="">Yes</label>
-							<input type="radio" value="No" name="cat_top">
+							<input type="radio" value="No"  name="cat_top">
 							<label for="">No</label>
 						</div>
 					</div>

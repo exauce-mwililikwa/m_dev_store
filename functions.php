@@ -2,5 +2,5 @@
 	$db=mysqli_connect("localhost","root","","ecom_store");
 	function(){
 		global $db;
-	}
-	?>
+	}//ss n ss xcnscnzsnssssnsssssssssssnssssssnssbzssnssnsnssnsnsnsnsnnsnnsznznnsnssnsnsnnxnxnsnsnsnncncnznzzbnxznznznssnssnznznzsssnsnxnxnsnnsssxnxnsnsnsnjssksksknxnxjsjssnsnsjsjsjssjsjjsnnsnssnsnsnsnxssnsnsnxsnsnsnbbxbssnsnsnsnsnsnsnssnss sbbnsnsnsnsnss s nsnnsnxssnsnsnssnssnssnsnsnnssnsnssn nnsnsnssnssnsnsnnsnsnsnsnssnsnssnsnxsnsnsnnsnsnsnxnxxnxnsnsnssnsnsnsnsnssnsnsnsnssnsnsnsnsnsnsnsskskksnsnssnsnsnsssnsnsnxssnsnsnsnsnnsnnsnxnsnsnsnnsnsnssnsnnx nsnsnsnsnzbbzbsnsnszsssnsnmsmnznznzxsnsnnsmsmxnnzzsnnznzxnxncncnxsnsnnznznnsnnsxnwwhhwsnsnsxbxbsnsns
+?>
