@@ -1,4 +1,4 @@
 <?php
-//ssssssssssssssssssssssssssssssssssssssssss	$con=mysqli_connect("localhost","root","","ecom_store");
+//sssssssssssssssssssssssssssssssssssssssssssss	$con=mysqli_connect("localhost","root","","ecom_store");
 ?>
 
